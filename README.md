@@ -1,5 +1,5 @@
 # WeShare
-
+LIVE - https://weshare-application.netlify.app/
 * WeShare is a Social media MERN stack application, it allows users to post 
 interesting events happened in their life,
 * This web application enable users to do Create/Read/Update/Delete operations on the posts which they are posting.
